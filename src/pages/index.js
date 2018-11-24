@@ -23,6 +23,9 @@ const IndexPage = () => (
      <br></br>
      <Button color='orange' className="Signupbtn">Sign In</Button>
     </div>
+    <div className="disclaimer">
+      <p>If you are experiencing difficulty breathing, chest pains, shortness of breath, uncotrolled bleeding and loss of eyesight amongst other things. Call 911.</p>
+    </div>
   </Layout>
 )
 
