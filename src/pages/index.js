@@ -21,7 +21,7 @@ const IndexPage = () => (
       <label className="form-label" for="password">Password</label>
      <input className="form-input" type="password" name="password" required/>
      <br></br>
-     <Button color='orange' className="Signupbtn">Sign In</Button>
+     <a href="http://localhost:3000/"><Button color='orange' className="Signupbtn">Sign In</Button></a>
     </div>
     <div className="disclaimer">
       <p>If you are experiencing difficulty breathing, chest pains, shortness of breath, uncotrolled bleeding and loss of eyesight amongst other things. Call 911.</p>
