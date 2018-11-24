@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'HealthChat',
+    title: 'HealthMate',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

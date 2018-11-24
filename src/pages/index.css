@@ -1,0 +1,19 @@
+.formstyle{
+text-align: center;
+margin-top: 50px;
+}
+
+.form-input{
+    margin-bottom:10px;
+    border-radius: 10px;
+    width: 300px;
+    border-style: inherit;
+}
+.hero-text{
+    text-align: center;
+}
+
+.form-label{
+    color:white;
+    padding-right: 10px;
+}
