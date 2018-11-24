@@ -16,10 +16,10 @@ const IndexPage = () => (
     </div>
     <div className="formstyle">
       <label className="form-label" for="username">Username</label>
-      <input className="form-input" type="text" name="username"/>
+      <input className="form-input" type="text" name="username" required/>
       <br></br>
       <label className="form-label" for="password">Password</label>
-     <input className="form-input" type="password" name="password"/>
+     <input className="form-input" type="password" name="password" required/>
      <br></br>
      <Button color='orange' className="Signupbtn">Sign In</Button>
     </div>
